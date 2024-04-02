@@ -8,7 +8,7 @@ import { FooterComponent } from './views/footer/footer.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'login',
     component: HomeComponent
   },
   {
