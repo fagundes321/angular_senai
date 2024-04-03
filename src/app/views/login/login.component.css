@@ -1,13 +1,14 @@
-main{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    height: 824px;   
-   
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 824px;
 }
 
-  
-
-
-
+.btn-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
 
