@@ -3,19 +3,33 @@ main {
   justify-content: center;
   align-items: center;
   height: 824px;
+  
 }
 
-.btn-login {
+.form-group{
+
+}
+
+
+.redefinir{
+  position: relative;
+  left: 35px;
+}
+
+.login{
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
+  align-items:baseline;
+  left: 30px;
 }
 
-login{
-    background-color: black;
+form{
+  background: white;
+  padding: 50px;
+  border-radius: 40px;
+  box-shadow: 6px 6px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
-redefinir{
-    position: relative;
+.checkbox-wrap{
+  position: relative;
+  left: 2px;
 }
