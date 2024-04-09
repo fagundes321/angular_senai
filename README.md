@@ -1,27 +1,26 @@
-# AngularSenai
+# Projeto do Senai com Framework Angular
+# Descrição
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este projeto consiste em um site de venda de jogos desenvolvido utilizando o framework Angular. Ele inclui funcionalidades como menu de navegação, banner promocional e tela de login para os usuários.
 
-## Development server
+Além disso, o site apresenta um painel de descontos onde os usuários podem encontrar ofertas especiais. Ao clicar no ícone da Steam, os usuários são direcionados para o site da Steam correspondente ao jogo anunciado, facilitando a compra.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Funcionalidades
 
-## Code scaffolding
+    Menu de Navegação: Permite aos usuários explorar diferentes seções do site, como página inicial, catálogo de jogos, área do usuário, entre outros.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    Banner Promocional: Destaca ofertas especiais e promoções atuais para atrair a atenção dos usuários.
 
-## Build
+    Tela de Login: Fornece aos usuários registrados a capacidade de fazer login para acessar recursos exclusivos, como histórico de compras e informações da conta.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    Painel de Descontos: Apresenta descontos e ofertas especiais em jogos selecionados. Ao clicar no ícone da Steam, os usuários são redirecionados para a página correspondente na loja Steam para efetuar a compra.
 
-## Running unit tests
+# Contribuindo
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor novas funcionalidades. Se desejar contribuir com código, por favor, siga os padrões de estilo e as práticas recomendadas.
 
-## Running end-to-end tests
+# Autor
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Este projeto foi desenvolvido como parte do curso do Senai. Para mais informações, entre em contato com o autor:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Nome: Victor Fagundes Souza         
