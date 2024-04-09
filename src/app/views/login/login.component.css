@@ -6,9 +6,6 @@ main {
   
 }
 
-.form-group{
-
-}
 
 
 .redefinir{
@@ -32,4 +29,13 @@ form{
 .checkbox-wrap{
   position: relative;
   left: 2px;
+}
+
+.logo_circle{
+  text-align: center;
+  height: 80px;
+}
+
+.logo_circle1{
+  height: 50px;
 }
